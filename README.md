@@ -19,8 +19,13 @@ A front-end developer passionate about creating innovative, functional, and enga
 
 ## 🌱 A Bit More About Me
 🎓 I’m currently pursuing a degree in Computer Engineering at the University of Buenos Aires.
+
 💻 I’ve been working as a front-end developer for 2 years, focusing on building interactive and efficient user experiences.
+
 🚀 I’m expanding my skills by learning Flutter, blending my love for mobile and web development.
+
 🗺️ I have experience designing 3D maps and working on projects that involve advanced visualization.
+
 🤝 I thrive in collaborative environments, leveraging adaptability and interpersonal skills to contribute effectively to team goals.
+
 📖 I’m passionate about continuous learning and enjoy taking on new challenges to grow both personally and professionally.
